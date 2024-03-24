@@ -1,0 +1,40 @@
+/* HOME PAGE */
+
+.header-display{
+    background-color: #7194BD;
+    padding: 1.5rem;
+}
+
+body{
+    background-color: #2F4454;
+}
+
+header, body{
+    margin: 0 auto;
+}
+
+header nav ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    padding: 0;
+    margin: 0;
+    
+}
+
+li> h1{
+    margin: 0;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+    padding: 0;
+}
+
+.map-center{
+    display: flex;
+    justify-content: center;
+}
+
+/*LOGIN POPUP*/
